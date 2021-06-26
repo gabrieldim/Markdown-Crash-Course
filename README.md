@@ -46,16 +46,16 @@ ___
 * Text 1
 * Text 2
 * Text 3
-    * Nasted text 1
-    * Nasted text 2
-        * Nasted text 1
-        * Nasted text 2
+    * Nested text 1
+    * Nested text 2
+        * Nested text 1
+        * Nested text 2
 <br>         
 
 <!-- Ordered List -->
 1. Text 1
 2. Text 2
-    1. Nasted text 1
+    1. Nested text 1
 5. Text 3 // it gives the appropriate order
 <br>  
 
